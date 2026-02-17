@@ -6,7 +6,7 @@
 
 ### When you change your AI's soul, you don't just change the AI. You change yourself.
 
-**Open registry of shareable personas for AI agents.**
+**Open-spec platform for shareable AI agent personas.**
 
 [![Website](https://img.shields.io/badge/clawsouls.ai-Visit-blueviolet?style=for-the-badge)](https://clawsouls.ai)
 [![CLI](https://img.shields.io/npm/v/clawsouls?style=for-the-badge&label=CLI&color=orange)](https://www.npmjs.com/package/clawsouls)
