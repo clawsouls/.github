@@ -91,7 +91,7 @@ Follow the **[Soul Spec v0.3](https://github.com/clawsouls/clawsouls/blob/main/d
 ## 📄 Resources
 
 - 📜 [The Soul Thesis](https://clawsouls.ai/en/manifesto) — Our manifesto
-- 📄 [Research Paper](https://doi.org/10.5281/zenodo.18675161) — "Soul-Driven Interaction Design" (Lee, 2026)
+- 📄 [Research Paper](https://doi.org/10.5281/zenodo.18675257) — "Soul-Driven Interaction Design" (Lee, 2026)
 - 📋 [License Guide](https://clawsouls.ai/en/licenses) — Allowed licenses (permissive only)
 - 📖 [Community Guidelines](https://clawsouls.ai/en/guidelines)
 
