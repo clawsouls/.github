@@ -103,7 +103,7 @@ Apache 2.0 — open spec, open tools, your data stays yours.
 
 ---
 
-**Works with any SOUL.md-compatible agent** — OpenClaw, Clawdbot, ZeroClaw, and more 🦞
+**Built for OpenClaw, works with any SOUL.md-compatible agent** — Clawdbot, ZeroClaw, Moltbot, and more 🦞
 
 *Souls are LLM-agnostic. Use them with Claude, GPT, Gemini, Llama, or anything else.*
 
