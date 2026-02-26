@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/clawsouls/clawsouls/main/assets/logo.png" width="180" alt="ClawSouls" />
+<img src="https://raw.githubusercontent.com/clawsouls/clawsouls/main/assets/new_logo/full_logo_light.png" width="180" alt="ClawSouls" />
 
 # ClawSouls
 
