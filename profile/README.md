@@ -12,6 +12,7 @@
 [![CLI](https://img.shields.io/npm/v/clawsouls?style=for-the-badge&label=CLI&color=orange)](https://www.npmjs.com/package/clawsouls)
 [![MCP](https://img.shields.io/npm/v/soul-spec-mcp?style=for-the-badge&label=MCP&color=green)](https://www.npmjs.com/package/soul-spec-mcp)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://github.com/clawsouls/clawsouls/blob/main/LICENSE)
+[![Docs](https://img.shields.io/badge/Docs-Read-informational?style=for-the-badge)](https://docs.clawsouls.ai)
 [![X](https://img.shields.io/badge/@ClawSoulsAI-Follow-black?style=for-the-badge&logo=x)](https://x.com/ClawSoulsAI)
 
 ---
