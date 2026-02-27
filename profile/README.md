@@ -86,7 +86,7 @@ npx clawsouls init my-soul
 npx clawsouls publish ./my-soul/
 ```
 
-Follow the **[Soul Spec v0.3](https://github.com/clawsouls/clawsouls/blob/main/docs/soul-spec-v0.3.md)** to build your own. Get your publish token at [clawsouls.ai/dashboard](https://clawsouls.ai/en/dashboard).
+Follow the **[Soul Spec v0.3](https://github.com/clawsouls/soulspec/blob/main/soul-spec-v0.3.md)** to build your own. Get your publish token at [clawsouls.ai/dashboard](https://clawsouls.ai/en/dashboard).
 
 ## 📄 Resources
 
