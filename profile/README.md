@@ -11,6 +11,7 @@
 [![Website](https://img.shields.io/badge/clawsouls.ai-Visit-blueviolet?style=for-the-badge)](https://clawsouls.ai)
 [![CLI](https://img.shields.io/npm/v/clawsouls?style=for-the-badge&label=CLI&color=orange)](https://www.npmjs.com/package/clawsouls)
 [![MCP](https://img.shields.io/npm/v/soul-spec-mcp?style=for-the-badge&label=MCP&color=green)](https://www.npmjs.com/package/soul-spec-mcp)
+[![Android](https://img.shields.io/badge/Google_Play-SoulClaw-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.clawsouls.soulclaw)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://github.com/clawsouls/clawsouls/blob/main/LICENSE)
 [![Docs](https://img.shields.io/badge/Docs-Read-informational?style=for-the-badge)](https://docs.clawsouls.ai)
 [![X](https://img.shields.io/badge/@ClawSoulsAI-Follow-black?style=for-the-badge&logo=x)](https://x.com/ClawSoulsAI)
@@ -56,6 +57,16 @@ openclaw gateway restart
 ```
 
 Or visit **[clawsouls.ai](https://clawsouls.ai)** to browse the gallery — you can also **[create a soul in the browser](https://clawsouls.ai/en/dashboard/editor/new)**.
+
+## 📱 On your phone
+
+**SoulClaw** brings souls to Android. Install from the same community registry, talk to any
+model with your own key (Gemini · Claude · GPT · OpenRouter), and the memory stays with you.
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.clawsouls.soulclaw)
+
+> The spec, the CLI and the MCP server above are open source (Apache 2.0).
+> The mobile app is a product we build on top of them — we run on our own spec.
 
 ## 🎭 Featured Souls
 
