@@ -63,7 +63,7 @@ Or visit **[clawsouls.ai](https://clawsouls.ai)** to browse the gallery — you 
 **SoulClaw** brings souls to Android. Install from the same community registry, talk to any
 model with your own key (Gemini · Claude · GPT · OpenRouter), and the memory stays with you.
 
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.clawsouls.soulclaw)
+<a href="https://play.google.com/store/apps/details?id=com.clawsouls.soulclaw"><img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
 
 > The spec, the CLI and the MCP server above are open source (Apache 2.0).
 > The mobile app is a product we build on top of them — we run on our own spec.
